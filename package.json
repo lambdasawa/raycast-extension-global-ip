@@ -2,15 +2,15 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "raycast-extension-global-ip",
   "title": "raycast-extension-global-ip",
-  "description": "",
+  "description": "Automatically fetches and displays your global IP.",
   "icon": "command-icon.png",
   "author": "lambdasawa",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
-      "title": "Fetch global IP address",
-      "description": "",
+      "title": "Fetch Global IP Address",
+      "description": "Automatically fetches and displays your global IP.",
       "mode": "menu-bar"
     }
   ],
